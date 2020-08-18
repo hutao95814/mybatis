@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/hutao=UTF-8
+encoding//src/com/hutao/mybatis/annotation=UTF-8
+encoding//src/com/hutao/mybatis/annotation/Insert.java=UTF-8
+encoding//src/com/hutao/mybatis/aop=UTF-8
+encoding//src/com/hutao/mybatis/aop/MybatisInvocationHandler.java=UTF-8
+encoding//src/com/hutao/mybatis/pool/database/manager/DbPoolManager.java=UTF-8
+encoding//src/com/hutao/mybatis/test/Test.java=UTF-8
+encoding/<project>=UTF-8
